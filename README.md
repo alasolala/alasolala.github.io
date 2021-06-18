@@ -1,2 +1,2 @@
-# alasolala.github.io-
-alasolala's homepage
+# alasolala.github.io
+Alasolala's homepage
